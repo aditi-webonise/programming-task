@@ -35,7 +35,6 @@ class ShoppingCart
 		System.out.println("Enter the number of Close Up");
 		Scanner in = new Scanner(System.in);
 		noOfCloseup = noOfCloseup - in.nextInt();
-		
 	} 
 	public static void main(String args[])
 	{	
